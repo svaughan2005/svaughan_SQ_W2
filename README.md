@@ -21,11 +21,6 @@ The file can be run through its Github Pages link.
 | [2] `assets/images/ce_char_red.png`   | favpng.com      |
 | [1] `assets/images/summit_bg.jpeg`    | Steam community |
 
-(List and attribute all non-original assets.)
-References
-(ACM-formatted references connected to in-text or code citations)
-Please refer to the class examples for the appropriate format of the README File.
-
 ## References
 
 [1] Duderock. 2024. Celeste Summit Level Background. (2024). Retrieved May 20, 2026 from https://steamcommunity.com/sharedfiles/filedetails/?id=2628212053
