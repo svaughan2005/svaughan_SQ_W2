@@ -24,5 +24,7 @@ The file can be run through its Github Pages link.
 ## References
 
 [1] Duderock. 2024. Celeste Summit Level Background. (2024). Retrieved May 20, 2026 from https://steamcommunity.com/sharedfiles/filedetails/?id=2628212053
+
 [2] jcnathancrane. 2025. Madeline - Retro Pixel Game Character PNG. (2025). Retrieved May 20, 2026 from https://favpng.com/png_view/madeline-retro-pixel-game-character-png/cEbkaXU0
+
 [3] osamu. 2024. celeste (dash ability). (2024). Retrieved May 20, 2026 from https://www.pixilart.com/art/celeste-dash-ability-sr2f0fec62252aws3
